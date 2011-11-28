@@ -14,7 +14,8 @@ README = open(os.path.join(here, 'README.txt')).read()
 
 requires = [
     "nose", #Testing
-    "mock" #Testing
+    "mock", #Testing
+    "coverage" #Testing?
     ]
            
 
